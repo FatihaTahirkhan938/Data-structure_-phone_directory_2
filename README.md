@@ -1,0 +1,1 @@
+The Phone Directory Application using Doubly Linked List successfully demonstrates how data structures are applied in real-life applications. The project improves understanding of linked lists, searching, sorting, and memory management, and is ideal for academic and practical learning purposes.
